@@ -1,0 +1,6 @@
+{
+  "name": "BLS Labor Market Explorer",
+  "description": "Interactive exploration of BLS payroll employment data, deconstructing the Health Care vs. Rest of Economy chart across sectors and geography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
